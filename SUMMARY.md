@@ -4,7 +4,8 @@
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
+* [💡 What we do](overview/what-we-do/README.md)
+  * [数字电路](overview/what-we-do/shu-zi-dian-lu.md)
 * [✨ Our Features](overview/our-features.md)
 
 ## Product Guides
